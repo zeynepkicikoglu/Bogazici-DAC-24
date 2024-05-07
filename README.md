@@ -19,3 +19,4 @@ All the needed information is in the world document.(in pdf)
 Evaluation
 Evaluation will be on 'Progression Probability' dataset that you will be creating at the end of Question-3. The mean absolute error (MAE) metric will be the evaluation metric.
 
+![34671154245562](https://github.com/zeynepkicikoglu/Bogazici-DAC-24/assets/91759024/bb85496d-654a-43e4-ad06-dd14da071bd7)
